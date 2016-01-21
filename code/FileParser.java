@@ -12,12 +12,9 @@ import javax.swing.JOptionPane;
 //  Kod är ful
 //  Inget kul
 //
-// SE! Till och med poesing är kass.
-<<<<<<< HEAD
-public class C_HOBBS {
-=======
+// SE! Till och med poesin är kass.
+
 public class C_Calves {
->>>>>>> a0cd7dbadbb3bd6d0bfe08c5ddc682285f75aa76
 	private char[] charArray, searchArray;
 	
 	public FileParser() {
