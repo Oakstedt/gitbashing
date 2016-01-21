@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 //  Inget kul
 //
 // SE! Till och med poesing är kass.
-public class FileParser {
+public class C_HOBBS {
 	private char[] charArray, searchArray;
 	
 	public FileParser() {
