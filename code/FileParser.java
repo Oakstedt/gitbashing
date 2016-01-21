@@ -6,7 +6,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
-
+// Vad är detta för skit? Måste vara en total klåpare som skapat detta... Alltså allvarligt.
+// Det är så uselt att jag tänker skriva en dikt om det:
+//  
+//  Kod är ful
+//  Inget kul
+//
+// SE! Till och med poesing är kass.
 public class FileParser {
 	private char[] charArray, searchArray;
 	
